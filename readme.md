@@ -9,3 +9,4 @@ analytic critical value of 0.04006.
 
 Run a single simulation from main.py
 
+![Alt text](https://github.com/jackglawson/trojan-asteroids/blob/master/img/typical_orbits.PNG)
